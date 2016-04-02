@@ -20,6 +20,6 @@ class Tienda extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('Bienvenido a mi pagina');
+		$this->load->view('vistamipagina');
 	}
 }
